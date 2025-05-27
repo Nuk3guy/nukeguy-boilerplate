@@ -1,5 +1,10 @@
 # 🚀 NukeGuy's Handpicked Boilerplate
 
+<p align="center">
+  <img src="./public/preview.png" width="800" />
+</p>
+
+
 A modern, production-ready Next.js 15 boilerplate with Tailwind 40, Material, and supercool libraries for 2025 development. This boilerplate is designed to save you hours of setup time and provide a solid foundation for any project.
 
 ## ✨ Features

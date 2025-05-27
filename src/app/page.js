@@ -140,6 +140,18 @@ export default function HomePage() {
             transition={{ duration: 0.8, delay: 0.3, ease: 'easeOut' }}
           >
             <Typography
+              variant="h2"
+              component="h2"
+              sx={{
+                fontWeight: 800,
+                fontSize: { xs: '0.6rem', sm: '0.7rem', md: '0.9rem', lg: '1.2rem' },
+                lineHeight: 1.1,
+                mb: 2,
+              }}
+            >
+              Javscript/Jsx
+            </Typography>
+            <Typography
               variant="h5"
               component="p"
               sx={{
@@ -151,7 +163,7 @@ export default function HomePage() {
               }}
             >
               A modern, production-ready boilerplate with Next.js 15, Material UI,
-              Tailwind CSS, Supabase, and Prisma - perfectly integrated for 2025 development.
+              Tailwind 4, Supabase, and Prisma - perfectly integrated for 2025 development.
             </Typography>
           </motion.div>
 
@@ -164,7 +176,7 @@ export default function HomePage() {
               {[
                 'Next.js 15',
                 'Material UI',
-                'Tailwind CSS',
+                'Tailwind 4',
                 'Supabase',
                 'Prisma',
                 'Framer Motion',
