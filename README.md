@@ -4,7 +4,6 @@
   <img src="./public/preview.png" width="800" />
 </p>
 
-
 A modern, production-ready Next.js 15 boilerplate with Tailwind 40, Material, and supercool libraries for 2025 development. This boilerplate is designed to save you hours of setup time and provide a solid foundation for any project.
 
 ## ✨ Features
@@ -112,6 +111,8 @@ nukeguy-boilerplate/
 │   │   ├── layout.js          # Root layout with theme provider
 │   │   └── page.js            # Landing page
 │   ├── components/
+│   │   ├── Footer.js          # Footer Component
+│   │   ├── Header.js          # Header Component
 │   │   ├── ThemeProvider.js   # Theme context provider
 │   │   └── ThemeToggle.js     # Dark/light mode toggle
 │   ├── hooks/
